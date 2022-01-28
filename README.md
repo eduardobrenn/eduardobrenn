@@ -3,7 +3,7 @@
 </div>
 
 ## Sobre mim
-- :briefcase: 
+- :briefcase:: SEO Phicoding
 
 ## Conecte por:
 <a href="https://www.linkedin.com/in/eduardobrenn/">
