@@ -13,6 +13,7 @@
 <i class="devicon-unity-original" style="font-size: 60px"></i>
 <i class="devicon-csharp-plain" style="font-size: 60px"></i>
 
+<img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/html.svg" height="60px"/>
 
 
 
