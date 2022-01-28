@@ -3,7 +3,7 @@
 </div>
 
 ## Conecte por:
-<img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/linkedin-brands.svg" height="60px" style="max-width:100%;margin: 0 7px;"/><img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/instagram-brands.svg" height="60px" style="max-width:100%;margin: 0 7px;"/><img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/telegram-plane-brands.svg" height="60px" style="max-width:100%;margin: 0 7px;"/>
+<img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/linkedin-brands.svg" height="60px" style="max-width:100%;margin: 0 7px; paddin: 10px;"/><img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/instagram-brands.svg" height="60px" style="max-width:100%;margin: 0 7px; paddin: 10px;"/><img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/telegram-plane-brands.svg" height="60px" style="max-width:100%;margin: 0 7px; paddin: 10px;"/>
 
 ## Minhas Skills
 <i class="devicon-html5-plain" style="font-size: 60px"></i>
