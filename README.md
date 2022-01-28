@@ -36,3 +36,7 @@
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=eduardobrenn&count_private=true&show_icons=true"/>
 </div>
+
+## Alguns Jobs
+ - Plataforma de cursos: https://phdcursos.com.br/
+ - Site SNNO: https://snno.com.br/
