@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/banner/export/welcome.png"/>
+  <img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/banner/export/welcome.png"/>
 </div>
 
 ## Minhas Skills
