@@ -13,8 +13,8 @@
 <i class="devicon-unity-original" style="font-size: 60px"></i>
 <i class="devicon-csharp-plain" style="font-size: 60px"></i>
 
-<img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/html.svg" height="60px" style="display: inline"/>
-<img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/css3-plain.svg" height="60px" style="display: inline"/>
+<img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/html.svg" height="60px" style="display-block: inline"/>
+<img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/css3-plain.svg" height="60px" style="display-block: inline"/>
 <img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/javascript-original.svg" height="60px"/>
 <img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/vue.svg" height="60px"/>
 <img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/laravel.svg" height="60px"/>
