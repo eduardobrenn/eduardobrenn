@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 <div align="center">
-  <img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/export/welcome.png"/>
+  <img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/export/welcome.png"/>
 </div>
 
 ## Minhas Skills
