@@ -3,7 +3,9 @@
 </div>
 
 ## Sobre mim
-- :briefcase:: SEO Phicoding
+- :briefcase: SEO Phicoding
+- :book: Graduado em Tecnologia em Sistemas para Internet
+- :open_book: Fazendo Pós-graduação em Privacidade e Proteção de Dados Pessoais
 
 ## Conecte por:
 <a href="https://www.linkedin.com/in/eduardobrenn/">
