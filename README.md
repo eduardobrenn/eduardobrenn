@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<link rel="stylesheet" href="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/css/devicon.css">
 
 <div align="center">
   <img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/export/welcome.png"/>
