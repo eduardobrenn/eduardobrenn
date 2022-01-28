@@ -2,6 +2,9 @@
   <img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/banner/export/welcome.png"/>
 </div>
 
+## Conecte por:
+<img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/linkedin-brands.svg.svg" height="60px" style="max-width:100%;margin: 0 2px;"/><img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/instagram-brands.svg" height="60px" style="max-width:100%;margin: 0 2px;"/><img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/telegram-plane-brands.svg" height="60px" style="max-width:100%;margin: 0 2px;"/>
+
 ## Minhas Skills
 <i class="devicon-html5-plain" style="font-size: 60px"></i>
 <i class="devicon-css3-plain" style="font-size: 60px"></i>
