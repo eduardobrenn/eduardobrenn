@@ -2,6 +2,9 @@
   <img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/banner/export/welcome.png"/>
 </div>
 
+## Sobre mim
+- :briefcase: 
+
 ## Conecte por:
 <a href="https://www.linkedin.com/in/eduardobrenn/">
 <img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/img/icons/export/linkedin-brands.svg" height="60px" style="max-width:100%;margin: 0 7px; paddin: 10px;"/>
