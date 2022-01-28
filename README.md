@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
 <div align="center">
   <img src="https://github.com/eduardobrenn/eduardobrenn/blob/main/assets/export/welcome.png"/>
 </div>
@@ -15,7 +17,7 @@
 
 
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobrenn"/>
+<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobrenn"/>
 
 
 
@@ -24,4 +26,3 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=eduardobrenn&count_private=true&show_icons=true"/>
 </div>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
